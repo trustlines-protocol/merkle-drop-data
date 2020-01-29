@@ -3,6 +3,9 @@
 This repository contains the raw data used in the [Trustlines
 Foundation Merkle Drop](https://trustlines.foundation/merkle-drop.html)
 
+You can find the information how to use this in the [merkle-drop
+github repository](https://github.com/trustlines-protocol/merkle-drop)
+
 ## Terms and Conditions
 Please read and review the [Terms and
 Conditions](https://trustlines.foundation/terms-conditions-merkle-drop.html)
